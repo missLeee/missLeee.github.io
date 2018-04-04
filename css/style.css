@@ -134,6 +134,7 @@ a:hover, a:active {
   position: relative;
   display: initial;
   padding-right: 20px;
+  font-size: 15px;
 }
 .page-top .nav a {
   color: #5A5A5A;
@@ -143,7 +144,7 @@ a:hover, a:active {
 }
 .page-top .nav a.current {
   color: #5A5A5A;
-  padding-bottom: 22px;
+  padding-bottom: 20px;
   border-bottom: 1px solid #5A5A5A;
 }
 .page-top .information {
@@ -200,11 +201,12 @@ a:hover, a:active {
   letter-spacing: 2px;
   line-height: 1;
   margin: 0;
+  margin-top: 6px;
 }
 .sidebar .logo-title .title a {
   text-decoration: none;
   color: #464646;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: bold;
 }
 .sidebar .social-links {
